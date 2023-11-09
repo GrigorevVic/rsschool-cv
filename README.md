@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[Md](https://GrigorevVic.github.io/rsschool-cv/cv)
+[CV](https://GrigorevVic.github.io/rsschool-cv/cv)
